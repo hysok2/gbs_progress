@@ -11,3 +11,6 @@
 : 経過の情報
 - csv2md.py
 : gbs_progress.csvをmarkdownファイルに変換するスクリプト
+
+## 謝辞
+家族、医療関係者、[患者会](https://www.gbsjpn.org/)メンバーに感謝申し上げます。
